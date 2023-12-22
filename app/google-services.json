@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1044831119768",
+    "firebase_url": "https://toys-world-818c3-default-rtdb.firebaseio.com",
+    "project_id": "toys-world-818c3",
+    "storage_bucket": "toys-world-818c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044831119768:android:b8e24986b9493c72aa63ed",
+        "android_client_info": {
+          "package_name": "com.example.navbar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044831119768-v838o65j5snttusevp22tt8f4lmvt3us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEq9lC0i1srt3vpp6iCk4w98FGvGVPttg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044831119768-v838o65j5snttusevp22tt8f4lmvt3us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044831119768:android:4ab17b6c86763ab4aa63ed",
+        "android_client_info": {
+          "package_name": "com.example.toysworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044831119768-v838o65j5snttusevp22tt8f4lmvt3us.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEq9lC0i1srt3vpp6iCk4w98FGvGVPttg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044831119768-v838o65j5snttusevp22tt8f4lmvt3us.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
